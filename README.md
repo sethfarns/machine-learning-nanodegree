@@ -1,0 +1,1 @@
+This repository is for notes relating to the Udacity Machine Learning Engineer Nanodegree program. For code from the projects worked on during the nanodegree, see the machine-learning repository.
